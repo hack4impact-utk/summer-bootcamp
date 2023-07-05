@@ -3,5 +3,5 @@
 //     type="checkbox"
 //     className="mr-2"
 //   />
-//   <span>{ */ Task text goes here */ }</span>
+//   <span>{ /* Task text goes here */ }</span>
 // </li>
